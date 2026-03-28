@@ -1,5 +1,4 @@
 # Web-Project
-# Web-Project
 # Recipe Finder App
 
 ## Project Overview
